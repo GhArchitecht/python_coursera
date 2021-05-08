@@ -19,5 +19,5 @@
 #     print("This is fun!")
 
 #Prints out number less than 10 
-for i in range(10):
-    print(i)
+# for i in range(10):
+#     print(i)
